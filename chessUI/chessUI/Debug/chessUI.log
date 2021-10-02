@@ -1,0 +1,16 @@
+﻿  board.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\chinese chess\完成版\chessUI\chessUI\board.cpp(381,24): warning C4018: '<': signed/unsigned 不相符
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\chinese chess\完成版\chessUI\chessUI\board.cpp(849,11): warning C4566: 由通用字元名稱 '\u4FE5' 表示的字元，無法在目前的字碼頁中表示 (950)
+  CannonChess.cpp
+  chess.cpp
+  ElephentChess.cpp
+  GeneralChess.cpp
+  HorseChess.cpp
+  KingChess.cpp
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\chinese chess\完成版\chessUI\chessUI\KingChess.cpp(195,30): warning C4552: '-': 未使用運算式結果
+C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\chinese chess\完成版\chessUI\chessUI\KingChess.cpp(291,32): warning C4552: '+': 未使用運算式結果
+  RookChess.cpp
+  SoldierChess.cpp
+  test.cpp
+  正在產生程式碼...
+  chessUI.vcxproj -> C:\Users\tiffy\Desktop\NTUST\大三\物件導向實習\chinese chess\完成版\chessUI\Debug\chessUI.exe
